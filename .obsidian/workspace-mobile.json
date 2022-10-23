@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "321967ce50468614",
+    "type": "split",
+    "children": [
+      {
+        "id": "044cf6cca7c029cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7db819b030bd0786",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c50e5cae25d59d78",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3f6e698bb5edbdd8",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "613573113b3790e5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#meeting_note",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b31543ce760df710",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "eb099b7b64b305eb",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "9341ef7dc504e116",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "71875e5cfaa54477",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "README.md",
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": true,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3372a2971adac79a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "README.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a35cea0f0f363f4b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "README.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "7db819b030bd0786",
+  "lastOpenFiles": [
+    "🏡 Home.md",
+    "The_Minimalists_11_Ways_to_Write_Better.pdf",
+    "03 Sources/Articles/11 Ways To Write Better.md",
+    "00 Inbox/Research Topics/Bullet Journaling.md",
+    "02 Files/350_Bullet_Journal_Ideas_(Updated_2020).pdf",
+    "02 Files/51hWSOK4i9L._AC_SX569_.jpg",
+    "05 Efforts/+ Writing Dashboard.md",
+    "01 Atlas/Scopes/COLLECT & PROCESS.md",
+    "README.md",
+    "01 Atlas/Sources MOC.md"
+  ]
+}

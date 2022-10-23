@@ -1,0 +1,20 @@
+{
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "insert-template",
+    "editor:indent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:attach-file",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:swap-line-up",
+    "editor:swap-line-down",
+    "editor:unindent-list",
+    "editor:configure-toolbar"
+  ],
+  "alwaysUpdateLinks": true
+}
